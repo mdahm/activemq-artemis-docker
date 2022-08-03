@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # POSIX SH portable semver 2.0 comparition tool.
 
